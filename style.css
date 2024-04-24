@@ -1,0 +1,27 @@
+h1{
+    color:rgb(59, 128, 150);
+}
+
+p{
+    color: rgb(16, 218, 16);
+}
+
+li{
+    list-style-type:none;
+}
+
+.special{
+    color: rgb(190, 116, 190);
+    font-weight: bold;
+    font-size:medium;
+    background-color: rgb(228, 215, 101);
+    border: rgb(195, 223, 37);
+}
+
+.titulo{
+    color: rgb(41, 164, 168);
+}
+
+.lista{
+    color:brown;
+}
